@@ -64,7 +64,7 @@
     width: var(--sidebar-width);
     height: 100%;
     padding: 0.6in var(--sidebar-horizontal-padding);
-    background-color: #79dbf3a9;
+    background-color: #a7e5f5a9;
     font-size: 8.5pt;
   }
   #content {
