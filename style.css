@@ -387,6 +387,7 @@
    * but not distracting for print
    */
   a[href] {
+    text-decoration: none;
     color: #444444;
   }
   a[href]:hover {
