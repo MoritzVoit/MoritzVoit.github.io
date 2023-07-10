@@ -6,7 +6,7 @@ I have a B.Sc. in Business and a M.Sc. in Information Systems. Having lived in D
 the challenge of facing new problems in unfamiliar environments and tackling difficult tasks head on. I enjoy analytical 
 and critical thinking in the context of Information Technology most, which is why I chose to build upon my brought knowledge 
 of information systems, by specializing in Data Analytics. I will thereby enable my team at my future employer to make the
-adequate data driven decisions, thereby minimizing risk, and maximizing results in a business context. I am currently studying 
+adequate data driven decisions, minimizing risk, and maximizing results in a business context. I am currently studying 
 Machine Learning through Codecademy.com to further my technical education.
 
 - See my online CV at moritzvoit.github.io
